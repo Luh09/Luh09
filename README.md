@@ -8,6 +8,7 @@
   <a href="https://github.com/Luh09">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luh09&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luh09&layout=compact&langs_count=7&theme=gruvbox"/>
+ 
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Lu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,6 +18,8 @@
   <img align="center" alt="Lu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lu-NodeJs"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg ">
+  <img align="right" alt="Luh-sun" height=""100" width="150" src="https://user-images.githubusercontent.com/45303717/131945837-d7583dd8-0ab4-417f-9c64-341b3c6070c4.gif">
+   
 </div>
   
   ##
