@@ -1,5 +1,7 @@
 
-  <h1>Olá !! Eu sou a Luiza ! 💛 👋</h1>
+
+  <h1>Olá !! Eu sou a Luiza ! 💛 </h1>
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🌱 Eu estou estudando Typescript e ReactJs
 - 😄 Pronome:ela/dela
