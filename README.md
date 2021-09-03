@@ -1,4 +1,4 @@
-  <img height="180em" src="https://br.freepik.com/vetores-gratis/vetor-de-fundo-creme-de-texturas-de-onda_3428193.htm#page=1&query=texturas%20amarelo&position=10"/>
+  <img height="180em" src=""/>
   <h1>Olá !! Eu sou a Luiza ! 💛 👋</h1>
 
 - 🌱 Eu estou estudando Typescript e ReactJs
