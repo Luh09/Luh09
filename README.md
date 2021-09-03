@@ -10,6 +10,9 @@
   <a href="https://github.com/Luh09">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luh09&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luh09&layout=compact&langs_count=7&theme=gruvbox"/>
+    
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Luh09&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+    
  
 </div>
   <div style="display: inline_block"><br>
