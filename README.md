@@ -37,7 +37,7 @@
 
 </div>
 
- ## Total de Visitas no perfil :detective: <br>
+ ## Total de Visitas no perfil 🕵️‍♀️: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Luh09/count.svg"/>
  </p>
