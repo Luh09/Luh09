@@ -39,7 +39,8 @@
     
  ![Snake animation](https://github.com/Luh09/Luh09/blob/666a56ff7d50c895ad40c7599b42149d79bec373/github-contribution-grid-snake.svg)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Luh09&theme=gruvbox) 
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Luh09&theme=gruvbox) 
+
 </div>
 
  ## Total de Visitas no perfil 🕵️‍♀️: <br>
