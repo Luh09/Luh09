@@ -6,6 +6,10 @@
 - 🌱 Eu estou estudando Typescript e ReactJs
 - 😄 Pronome:ela/dela
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7B515&lines=Always+learning+new+things;Engineering+student"></a>
+</p>
+
  <div>
   <a href="https://github.com/Luh09">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luh09&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
