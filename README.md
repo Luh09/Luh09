@@ -1,9 +1,9 @@
 ![WhatsApp Image 2021-09-03 at 00 48 11](https://user-images.githubusercontent.com/45303717/131947808-27377a9f-f1f2-400c-864e-e0757de1a336.jpeg)
 
-  <h1>Olá !! Eu sou a Luiza ! 💛 </h1>
+  <h1>Hello !! I'm Luiza ! 💛 </h1>
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 😄 Pronome:ela/dela
+- 😄 Pronoun:she/her
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7B515&lines=Always+learning+new+things;Engineering+student"></a>
