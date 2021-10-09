@@ -9,12 +9,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7B515&lines=Always+learning+new+things;Engineering+student"></a>
 </p>
 
+ ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats
  <div>
   <a href="https://github.com/Luh09">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luh09&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luh09&layout=compact&langs_count=7&theme=gruvbox"/>
     
-  ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats
+ 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Luh09&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
     
  ## 🔧Languages and tools
