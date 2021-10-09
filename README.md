@@ -47,7 +47,7 @@
 
 </div>
 
- ## Total de Visitas no perfil 🕵️‍♀️: <br>
+ ## Total Profile Views 🕵️‍♀️: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Luh09/count.svg"/>
  </p>
