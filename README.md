@@ -49,7 +49,7 @@
 
 </div>
 
- ## Total Profile Views 🕵️‍♀️: <br>
+ ## <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> Total Profile Views 🕵️‍♀️: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Luh09/count.svg"/>
  </p>
