@@ -1,6 +1,6 @@
 ![WhatsApp Image 2021-09-03 at 00 48 11](https://user-images.githubusercontent.com/45303717/131947808-27377a9f-f1f2-400c-864e-e0757de1a336.jpeg)
 
-  <h1>Hello <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> !! I'm Luiza ! 💛 </h1>
+  <h1>Hi <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> !! I'm Luiza ! 💛 </h1>
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 😄 Pronoun:she/her
