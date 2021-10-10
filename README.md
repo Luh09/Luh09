@@ -5,7 +5,8 @@
 
 - 😄 Pronoun:she/her
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 🌱 &nbsp; I’m currently learning Typescript and ReactJs; 
+- 🌱 &nbsp; I’m currently learning Typescript and ReactJs;
+- 📕 I love science fiction and history books from Brazil and the world
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7B515&lines=Always+learning+new+things;Engineering+student"></a>
