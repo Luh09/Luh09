@@ -3,7 +3,7 @@
   <h1>Hi <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> !! I'm Luiza ! 💛 </h1>
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 😄 Pronoun:she/her.
+- 😄 Pronoun:she/her;
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 🌱 &nbsp; I’m currently learning Typescript and ReactJs;
 - 📕 I love science fiction and history books from Brazil and the world;
