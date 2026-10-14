@@ -35,7 +35,7 @@
 
 </p>
     
-
+🐍 Contribution Snake
   ![Snake animation]()
  
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>Last 31 days stats
